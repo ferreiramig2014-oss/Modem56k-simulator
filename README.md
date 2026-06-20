@@ -11,8 +11,7 @@ pip install pyserial
 Só isso. winsound, socket, threading, struct, hashlib são todos stdlib.
 Dependências externas
 
-com0com — cria o par de portas virtuais COM10 ↔ COM11. Download: https://com0com.sourceforge.net/
-VirtualModem56k.inf — driver INF que faz o Windows enxergar a COM10 como "Virtual Fax/Modem 56kbps" (incluído no repositório)
+com0com — cria o par de portas virtuais COM10 ↔ COM11. Download: https://com0com.sourceforge.net/ Windows enxergar a COM10 como "Virtual Fax/Modem 56kbps" (incluído no repositório)
 
 Arquivos necessários na mesma pasta
 modem56k.py
